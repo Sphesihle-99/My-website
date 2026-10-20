@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BOB Builder - My Website</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 40px; background: #f5f5f5; }
+    h1 { color: #ff6600; }
+    button { padding: 12px 25px; background: black; color: white; border: none; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Hello World, I'm BOB Builder!</h1>
+  <p>My website is now live on Chrome.</p>
+  <button onclick="alert('Dankooo mngani! 🔥')">Click Me</button>
+</body>
+</html>
